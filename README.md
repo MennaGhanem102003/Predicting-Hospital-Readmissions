@@ -51,7 +51,8 @@ Technologies Used
 How to Run
 --------------------------------
 1. Clone the repository:
-   git clone https://github.com/your-username/HospitalReadmission_Prediction.git
+   git clone https://github.com/MennaGhanem102003
+/Predicting-Hospital-Readmissions.git
    cd HospitalReadmission_Prediction
 
 2. Install dependencies:
